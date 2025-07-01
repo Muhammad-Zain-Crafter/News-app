@@ -25,12 +25,13 @@ Users can browse news articles across multiple categories like World, Technology
 ## Project Structure
 
 src/
-  assets/
-  components/
-    Navbar.jsx
-    NewsBoard.jsx
-    NewsItem.jsx
-  App.js
-  App.css
-  index.js
-  index.css
+├── App.jsx
+├── index.js
+├── index.css
+├── App.css
+├── assets/
+├── components/
+│   ├── Navbar.jsx
+│   ├── NewsBoard.jsx
+│   └── NewsItem.jsx
+
